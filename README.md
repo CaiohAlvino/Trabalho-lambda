@@ -14,8 +14,7 @@ Este repositório contém uma função AWS Lambda escrita em Python, que atua co
 ## Resposta Exemplo
 ```json
 {
-  "statusCode": 200,
-  "body": "{\"output\": \"HELLO, WORLD!\"}"
+  "output": "HELLO, WORLD!"
 }
 ```
 ---
