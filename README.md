@@ -21,7 +21,7 @@ Este repositório contém uma função AWS Lambda escrita em Python, que atua co
 ## Estrutura do Projeto
 
 ```
-lambda_api_python/
-├── lambda_function.py
+Trabalho-lambda/
+├── main.py
 └── README.md
 ```
