@@ -3,7 +3,6 @@
 ```
 lambda_api_python/
 ├── lambda_function.py
-├── requirements.txt
 └── README.md
 ```
 
