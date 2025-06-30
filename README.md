@@ -1,3 +1,6 @@
+# IMPORTANTE
+Não funciona mais, foi excluido a lambda da AWS.
+---
 # Lambda API em Python
 
 Este repositório contém uma função AWS Lambda escrita em Python, que atua como uma API muito simples:
