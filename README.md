@@ -1,30 +1,34 @@
-# IMPORTANTE
-Não funciona mais, foi excluido a lambda da AWS.
+# IMPORTANT
+This project is no longer functional as the AWS Lambda function has been deleted.
+
 ---
-# Lambda API em Python
 
-Este repositório contém uma função AWS Lambda escrita em Python, que atua como uma API muito simples:
-- Recebe um JSON via evento com a chave `input`
-- Retorna um JSON com a chave `output` com o texto em maiúsculas
+# Simple Lambda API in Python
 
-## Evento de Exemplo
+This repository was created as a college project to demonstrate skills in connecting to and manipulating AWS resources using Python. It contains an AWS Lambda function that acts as a very simple API:
+- Receives a JSON event with the key `input`
+- Returns a JSON with the key `output` containing the uppercase version of the input text
+
+## Example Event
 ```json
 {
   "input": "Hello, World!"
 }
 ```
 
-## Resposta Exemplo
+## Example Response
 ```json
 {
   "output": "HELLO, WORLD!"
 }
 ```
+
 ---
-## Estrutura do Projeto
+
+## Project Structure
 
 ```
 Trabalho-lambda/
-├── main.py
-└── README.md
+├── 📄 main.py
+└── 📚 README.md
 ```
